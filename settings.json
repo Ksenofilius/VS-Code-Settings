@@ -1,0 +1,33 @@
+{
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "files.autoSave": "onWindowChange",
+    "workbench.colorTheme": "Bearded Theme Black & Diamond Soft",
+    "audioCues.lineHasError": "off",
+    "editor.accessibilitySupport": "off",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "debug.terminal.clearBeforeReusing": true,
+    "code-runner.runInTerminal": true,
+    "window.zoomLevel": 1,
+    "terminal.explorerKind": "external",
+    "workbench.iconTheme": "material-icon-theme",
+    "settingsSync.ignoredSettings": [
+        "editor.fontFamily"
+    ],
+    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.lineHeight": 15,
+    "editor.mouseWheelZoom": true,
+    "editor.cursorBlinking": "phase",
+    "workbench.editor.enablePreview": false,
+    "workbench.startupEditor": "none",
+    "python.analysis.fixAll": [
+
+    ]
+}
