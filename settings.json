@@ -1,14 +1,6 @@
 {
-    "workbench.editorAssociations": {
-        "*.ipynb": "jupyter-notebook"
-    },
-    "notebook.cellToolbarLocation": {
-        "default": "right",
-        "jupyter-notebook": "left"
-    },
-    "files.autoSave": "onWindowChange",
-    "workbench.colorTheme": "Bearded Theme Black & Diamond Soft",
-    "audioCues.lineHasError": "off",
+        "files.autoSave": "onWindowChange",
+    "workbench.colorTheme": "One Dark Pro",
     "editor.accessibilitySupport": "off",
     "[python]": {
         "editor.formatOnType": true
@@ -29,5 +21,5 @@
     "workbench.startupEditor": "none",
     "python.analysis.fixAll": [
 
-    ]
+    ],
 }
